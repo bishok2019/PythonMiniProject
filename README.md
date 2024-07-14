@@ -1,2 +1,1 @@
-# Race
- 
+Python Mini Projects
